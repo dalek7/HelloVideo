@@ -1,6 +1,9 @@
 # Seung
 outbig/
 #data/
+data_extracted/
+data_extracted*/
+
 MNIST_data/
 temp/
 out*/
